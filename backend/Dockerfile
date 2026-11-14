@@ -13,5 +13,6 @@ WORKDIR /app
 COPY --from=build /workspace/target/annuaire-1.0.0.jar app.jar
 USER app
 EXPOSE 8080
-ENV JAVA_TOOL_OPTIONS="-XX:MaxRAMPercentage=75 -Dfile.encoding=UTF-8"
+# Réglé pour les petites instances gratuites (512 Mo de RAM)
+ENV JAVA_TOOL_OPTIONS="-XX:MaxRAMPercentage=60 -XX:+UseSerialGC -Xss512k -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8"
 ENTRYPOINT ["java", "-jar", "/app/app.jar"]

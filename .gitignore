@@ -5,3 +5,4 @@ frontend/dist/
 frontend/.angular/
 .idea/
 *.iml
+README.md

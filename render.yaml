@@ -1,0 +1,14 @@
+# Blueprint Render : back-end seul, base H2 en mémoire rechargée depuis le seed à chaque démarrage (aucune base externe).
+services:
+  - type: web
+    name: annuaire-sfax2-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    healthCheckPath: /actuator/health
+    envVars:
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        generateValue: true

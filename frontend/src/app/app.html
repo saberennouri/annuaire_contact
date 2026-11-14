@@ -1,0 +1,164 @@
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>{{ t().title }}</h1>
+      <p>{{ t().sub }}</p>
+    </div>
+    <div class="tools">
+      <button class="tbtn" type="button" (click)="switchLang()">{{ t().lang }}</button>
+      <button class="tbtn" type="button" (click)="switchTheme()">{{ darkNow() ? t().light : t().dark }}</button>
+    </div>
+  </div>
+
+  <div class="bar">
+    <div class="search">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input #qi id="q" type="search" autocomplete="off" enterkeyhint="search" spellcheck="false"
+             [placeholder]="t().ph" [attr.aria-label]="t().ph" (input)="onSearch(qi.value)">
+      @if (q()) {
+        <button class="clear" type="button" aria-label="Effacer" (click)="clearSearch(qi)">✕</button>
+      }
+    </div>
+    <div class="tabs" role="tablist">
+      @for (k of tabKeys; track k) {
+        <button class="tab" role="tab" type="button" [attr.aria-selected]="tab() === k" (click)="setTab(k)">
+          {{ t().tabs[k] }}<span class="n" [class.zero]="!tabCount(k)">{{ tabCount(k) }}</span>
+        </button>
+      }
+    </div>
+  </div>
+
+  @if (chipKind() || chipDeleg()) {
+    <div class="chips">
+      <button class="chip" type="button" [attr.aria-pressed]="filter() === 'all'" (click)="setFilter('all')">
+        {{ t().all }}<span class="c">{{ allCount() }}</span>
+      </button>
+      @if (chipKind()) {
+        @for (k of kinds; track k) {
+          <button class="chip" type="button" [attr.aria-pressed]="filter() === k" (click)="setFilter(k)">
+            {{ t().kinds[k] }}<span class="c">{{ facetCount('kinds', k) }}</span>
+          </button>
+        }
+      }
+      @if (chipDeleg()) {
+        @for (d of delegs; track d) {
+          @if (tab() !== 'insp' || facetCount('delegations', d) > 0 || filter() === d) {
+            <button class="chip" type="button" [attr.aria-pressed]="filter() === d" (click)="setFilter(d)">
+              @if (delegFr(d)) { <small>{{ delegFr(d) }}</small> }
+              <span lang="ar">{{ d }}</span><span class="c">{{ facetCount('delegations', d) }}</span>
+            </button>
+          }
+        }
+      }
+    </div>
+  }
+
+  <div class="meta">
+    <span aria-live="polite">{{ loading() && !items().length ? t().loading : t().results(total()) }}</span>
+    <button class="chip" type="button" [attr.aria-pressed]="favOnly()" (click)="toggleFav()">★ {{ t().fav }} <span class="c">{{ favs().length }}</span></button>
+  </div>
+
+  @if (failed()) {
+    <div class="hint">{{ t().error }} <button type="button" (click)="reload()">{{ t().retry }}</button></div>
+  }
+  @if (q() && !loading() && !items().length && othersWithHits().length) {
+    <div class="hint">
+      {{ t().elsewhere }}
+      @for (o of othersWithHits(); track o.key; let last = $last) {
+        <button type="button" (click)="setTab(o.key)">{{ t().tabs[o.key] }} ({{ o.n }})</button>@if (!last) { · }
+      }
+    </div>
+  }
+
+  <main class="grid">
+    @for (e of items(); track e.id) {
+      <article class="card">
+        <div class="ch">
+          @if (e.number) { <span class="num">{{ e.number }}</span> }
+          <h3 lang="ar" dir="rtl">{{ e.name }}</h3>
+          <button class="star" type="button" [attr.aria-pressed]="isFav(e.id)" [attr.aria-label]="t().fav" (click)="toggleStar(e.id)">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>
+          </button>
+        </div>
+
+        <div class="tags">
+          @if (tagKind(e); as k) { <span class="tag" [class]="'tag ' + (e.kind ?? '').toLowerCase()">{{ k }}</span> }
+          @if (tagSub(e); as s) { <span class="tag private">{{ s }}</span> }
+          @if (e.delegation) { <span class="tag">{{ delegLabel(e) }}</span> }
+          @if (e.note) { <span class="tag warn" lang="ar" dir="rtl">{{ e.note }}</span> }
+        </div>
+
+        <ul class="rows">
+          @for (c of e.contacts; track $index) {
+            <li class="row">
+              <span class="lab">{{ t().roles[c.role] }}</span>
+              <div class="val">
+                @if (c.fullName) { <span class="pname" lang="ar" dir="rtl">{{ c.fullName }}</span> }
+                @if (c.phones.length) {
+                  <span class="phs">
+                    @for (p of c.phones; track p) { <ng-container *ngTemplateOutlet="phone; context: { $implicit: p }" /> }
+                  </span>
+                }
+              </div>
+            </li>
+          }
+          @if (mobiles(e).length) {
+            <li class="row"><span class="lab">{{ t().mobile }}</span><div class="val"><span class="phs">
+              @for (p of mobiles(e); track p) { <ng-container *ngTemplateOutlet="phone; context: { $implicit: p }" /> }
+            </span></div></li>
+          }
+          @if (landlines(e).length) {
+            <li class="row"><span class="lab">{{ t().fixe }}</span><div class="val"><span class="phs">
+              @for (p of landlines(e); track p) { <ng-container *ngTemplateOutlet="phone; context: { $implicit: p }" /> }
+            </span></div></li>
+          }
+          @if (otherPhones(e).length) {
+            <li class="row"><span class="lab">{{ t().tel }}</span><div class="val"><span class="phs">
+              @for (p of otherPhones(e); track p) { <ng-container *ngTemplateOutlet="phone; context: { $implicit: p }" /> }
+            </span></div></li>
+          }
+          @if (e.email) {
+            <li class="row"><span class="lab">{{ t().mail }}</span><div class="val">
+              <span class="mail"><span>{{ e.email }}</span>
+                <button class="cp mailcp" type="button" [attr.aria-label]="t().copy" (click)="copy(e.email)">
+                  <ng-container *ngTemplateOutlet="copyIcon" />
+                </button></span></div></li>
+          }
+          @if (e.address) {
+            <li class="row"><span class="lab">{{ t().addr }}</span><div class="val"><span class="addr" lang="ar" dir="rtl">{{ e.address }}</span></div></li>
+          }
+        </ul>
+
+        <div class="foot"><button class="copyall" type="button" (click)="copyCard(e)">{{ t().copyCard }}</button></div>
+      </article>
+    } @empty {
+      @if (!loading() && !failed()) {
+        <div class="empty">
+          <b>{{ t().none }}</b>{{ t().noneSub }}<br>
+          <button class="chip" type="button" (click)="reset(qi)">{{ t().reset }}</button>
+        </div>
+      }
+    }
+  </main>
+
+  @if (hasNext()) {
+    <div class="more"><button class="tbtn" type="button" [disabled]="loading()" (click)="loadMore()">{{ loading() ? t().loading : t().more }}</button></div>
+  }
+
+  <div class="note"><span>{{ t().src1 }}</span><span>{{ t().src2 }}</span></div>
+</div>
+
+<div class="toast" [class.on]="toastMsg()" role="status">{{ toastMsg() }}</div>
+
+<ng-template #copyIcon>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg>
+</ng-template>
+
+<ng-template #phone let-p>
+  <span class="ph" [class.odd]="!ok(p)" [attr.title]="ok(p) ? null : t().odd">
+    @if (ok(p)) { <a [href]="'tel:+216' + p">{{ fmt(p) }}</a> } @else { <span class="t">{{ fmt(p) }}</span> }
+    <button class="cp" type="button" [attr.aria-label]="t().copy + ' ' + fmt(p)" (click)="copy(p)">
+      <ng-container *ngTemplateOutlet="copyIcon" />
+    </button>
+  </span>
+</ng-template>

@@ -1,0 +1,6326 @@
+[
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 1,
+  "name": "م.إ. الحبيب الشعبوني بصفاقس",
+  "email": "C722114@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "99266874",
+   "24774836",
+   "74266767"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "هنيدة نجاح بن جامع",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 2,
+  "name": "م.إ. مصطفى السلامي بصفاقس",
+  "email": "C722115@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97561294",
+   "29107053",
+   "74218444"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بديع العبيدي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 3,
+  "name": "معهد الحبيب ثامر بصفاقس",
+  "email": "C722116@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97750637",
+   "74267950"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد أنور الغريبي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "درة العش",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 4,
+  "name": "م.إ. ابن الهيثم بصفاقس",
+  "email": "CL722117@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97324522",
+   "98972684",
+   "74654611"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد المجيد التومي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "مكرم الشعري",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_2",
+    "fullName": "عبد السلام الجوادي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 5,
+  "name": "م.إ. الإمام سحنون طريق قرمدة بصفاقس",
+  "email": "C722118@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98926276",
+   "22272371",
+   "74658902"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مراد الهرابي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "الصادق بن حمودة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 6,
+  "name": "معهد قرمدة صفاقس",
+  "email": "Ly722122@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29725326",
+   "74607603"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضوان زقروبة",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "حنان بوبكر",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 7,
+  "name": "المدرسة الإعدادية العوابد",
+  "email": "c722123@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "96332755"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد العزيز مقني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد العكرمي عمري",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 8,
+  "name": "م.إ. مركز علولو",
+  "email": "clg722124@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29155978"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أيمن بوقشة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 9,
+  "name": "معهد العوابد",
+  "email": "lysa722125@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97307932",
+   "29138183"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أسامة العفاس",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "مالك بوعصيدة",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "يحيى الزايدي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 10,
+  "name": "م.إ. بساقية الداير",
+  "email": "CL722201@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97216481",
+   "74294963"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد التريكي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "أمينة الفريخة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 11,
+  "name": "م.إ. المنصورة طريق سيدي منصور",
+  "email": "C722206@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "25217928",
+   "74878781"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد مهدي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "رمزي عبودة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 12,
+  "name": "معهد الخليج طريق سيدي منصور بصفاقس",
+  "email": "Ly722202@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29555710",
+   "74872661"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أحمد بن نصر",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "رفيق سلامة",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سعاد عدالي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 13,
+  "name": "م.إ. بالسلطنية",
+  "email": "C722203@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "28586486",
+   "74891346"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "قيس بسباس",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "عزالدين أولاد محمد",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 14,
+  "name": "م.إ. الصادق الفقي بساقية الداير",
+  "email": "L722204@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "99019995",
+   "74886489"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وليد سالم",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمود عبد المقصود",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 15,
+  "name": "م.إ. أحمد ملاك بصفاقس",
+  "email": "CL722205@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "24749045",
+   "74258233"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ناجح الزيادي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 16,
+  "name": "معهد الفاضل بن عاشور طريق المهدية ساقية الداير",
+  "email": "L722207@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22464653",
+   "74832760"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وليد دمق",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "عبد المجيد بن عمر",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "نورة محمد",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 17,
+  "name": "المدرسة الإعدادية المنارة طريق سيدي منصور بصفاقس",
+  "email": "C722208@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "93568669",
+   "74873620"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد عبيد",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 18,
+  "name": "معهد السلطنية",
+  "email": "lycee722209@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29242791",
+   "98663583"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمادي عبد المولاه",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "عبير بوعتور",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محرز الشيخ",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 19,
+  "name": "معهد المنجي سليم ساقية الزيت",
+  "email": "Ly722317@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97362117",
+   "74251514"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الغريبي",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "نجيب علوي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "نعيمة العشي دباش",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_2",
+    "fullName": "نير الميساوي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 20,
+  "name": "المدرسة الإعدادية بالشيحية",
+  "email": "C722318@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22616210",
+   "74254255"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سامي هدريش",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "ناجي العبادي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 21,
+  "name": "معهد أبو القاسم الشابي بالشيحية",
+  "email": "Ly722319@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "46323909",
+   "74846089"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مجيد بالكحلة",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "يسري العروسي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "هيام الفقي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 22,
+  "name": "م.إ. بساقية الزيت",
+  "email": "clg722320@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "94800602",
+   "74255955"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سامي الشريف",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سليم الفريخة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 23,
+  "name": "معهد 25 جويلية 1957 بصفاقس",
+  "email": "L722321@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29725716",
+   "74232017"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نبيل اليعقوبي",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "أسماء معتوق",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "أيمن الهنتاتي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 24,
+  "name": "م.إ. حي الأنس طريق تونس ساقية الزيت",
+  "email": "C722322@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97267368",
+   "74861659"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بسام الرقيق",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "موسى نصيب",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 25,
+  "name": "م.إ. مركز بوعصيدة بصفاقس",
+  "email": "C722323@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22670450",
+   "74232454"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صابر الكراي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سليم بن خالد",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 26,
+  "name": "معهد ابن رشيق الأنس ساقية الزيت",
+  "email": "L722324@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29449489",
+   "74860777"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ناجي الفقي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سندس يعيش",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 27,
+  "name": "م.إ. طريق تنيور بصفاقس",
+  "email": "Col722325@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97635703",
+   "29189371",
+   "74849002"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أحمد الطريقي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد مواعدة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 28,
+  "name": "المدرسة الإعدادية ابن منظور حي الأنس",
+  "email": "CL722326@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29193036",
+   "97366996",
+   "74860104"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد عبد الجواد",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "هدى الشعري بن عمر",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 29,
+  "name": "المعهد النموذجي ساقية الزيت",
+  "email": "Lp722327@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98430920",
+   "28099960",
+   "74862710"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نزار البهلول",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "سامي عبد المقصود",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "أحمد الدرويش",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_2",
+    "fullName": "فوزية التريكي دريرة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 30,
+  "name": "المدرسة الإعدادية النموذجية ساقية الزيت",
+  "email": "clp722328@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "53065313",
+   "29579143"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أنور الطياري",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "عبد اللطيف الدرويش",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 31,
+  "name": "المدرسة الإعدادية التقنية بجبنيانة",
+  "email": "CL722415@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "24481805",
+   "74880425"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حاتم بنور",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سعيد المسعودي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 32,
+  "name": "م.إ. بجبنيانة",
+  "email": "C722416@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "24350201",
+   "97635664",
+   "74880974"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد المجيد بن مليك",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_2",
+    "fullName": "عبد الرزاق بن عبد الله",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 33,
+  "name": "م.إ. حي الحدائق بجبنيانة",
+  "email": "Cl722417@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "58372837",
+   "74880044"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الرزاق المكور",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد زعتور",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 34,
+  "name": "معهد 18 جانفي 1952 بجبنيانة",
+  "email": "L722418@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98918685",
+   "74880040"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد اللطيف بن عيسى",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "محمد النحياني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "بشير بن عبد القادر",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 35,
+  "name": "معهد حزق",
+  "email": "L722421@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98950448",
+   "74896033"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "طارق بن كريم",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "خالد عقيد",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "ميلاد دباش",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 36,
+  "name": "م.إ. باللوزة",
+  "email": "C722422@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "25072899",
+   "29881549",
+   "74896051"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "جمال العبدلي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد القمري",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 37,
+  "name": "م.إ. بالعجانقة جبنيانة",
+  "email": "CL722423@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "99252210",
+   "92922856",
+   "79701026"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مصطفى شريحة",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "حسنة الفرجاني",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 38,
+  "name": "معهد أبو إسحاق الجبنياني بجبنيانة",
+  "email": "Ly722424@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "94614670",
+   "74881571"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نجيب قضوم",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "عبد الرزاق المكور",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "حسن بن الفقي أحمد",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 39,
+  "name": "م.إ. مصطفى حمدي بالعامرة",
+  "email": "C722501@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98956795",
+   "74899301"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمار بن عمار",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محسن الهويدي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 40,
+  "name": "معهد العامرة",
+  "email": "Ly722502@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98775765",
+   "29360461",
+   "74899333"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بن فرح",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "احميد الحاج بريك",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "فتحي الشريف",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 41,
+  "name": "المدرسة الإعدادية بالسلام",
+  "email": "C722503@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98293180",
+   "98242345",
+   "79701001"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "زهير المسلمي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 42,
+  "name": "المدرسة الإعدادية السعادي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "92049273"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "كمال الكتاني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد القطيط",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 43,
+  "name": "المدرسة الإعدادية الحنشة",
+  "email": "c722618@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97461501",
+   "74884714"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "جمال الجمل",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 44,
+  "name": "معهد الحنشة",
+  "email": "L722619@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "98707935",
+   "74284020"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أحمد عروس",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "أكرم بن صالح",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "السلامي العوادني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_2",
+    "fullName": "بلقاسم الطاهي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 45,
+  "name": "م.إ. الحسين بالحاج خالد بالحنشة",
+  "email": "C722620@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "28465561",
+   "99230230",
+   "74284304"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد المنعم المنيف",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "النوري منصور",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 46,
+  "name": "م.إ. بالغرابة",
+  "email": "C722621@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "21861870",
+   "74842128"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "النوري الفتوي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "شكري الغريبي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 47,
+  "name": "معهد محمود المسعدي الحنشة",
+  "email": "L722622@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29864330",
+   "74885088"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رؤوف الكشو",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "كشيدة العشي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 48,
+  "name": "م.إ. عامر التونسي",
+  "email": "C722623@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97759409",
+   "79740055"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "علي شعاعة",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "صالح بن الفالح",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 49,
+  "name": "معهد منزل شاكر",
+  "email": "Lycee722920@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29653752",
+   "74285066"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "إبراهيم بن الحاج علي",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "الهادي ابن العرامي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "منصور حفيظ",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 50,
+  "name": "م.إ. البرمكي بمنزل شاكر",
+  "email": "C722921@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22957155",
+   "74258648"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أكرم الحمروني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "ميلاد العامري",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 51,
+  "name": "م.إ. ابن سينا بمنزل شاكر",
+  "email": "C722922@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22624599",
+   "74285350"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فتحي الورشفاني",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "منصف الميزوري",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 52,
+  "name": "م.إ. الفرابي بمنزل شاكر",
+  "email": "C722923@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "29570409",
+   "98484432",
+   "74285458"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صالح المهذبي",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "حسين المطيراوي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 53,
+  "name": "معهد البرمكي بالعوادة",
+  "email": "Lyb722924@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "28520541"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "لطفي الكشو",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "ناصر اللوز",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "LYCEE",
+  "delegation": null,
+  "number": 54,
+  "name": "معهد فرحات حشاد بقرقنة",
+  "email": "L724924@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22809374",
+   "74481012"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "علي قراجة",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "لمياء حواس",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "محمد الشلي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "COLLEGE",
+  "delegation": null,
+  "number": 55,
+  "name": "م.إ. بقرقنة",
+  "email": "c724925@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "94317003",
+   "74482012"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مراد غربال",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 56,
+  "name": "المعهد الخاص ابن خلدون جبنيانة",
+  "email": "lsp729814@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "28099089",
+   "74880942"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد ابن العلواني",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 57,
+  "name": "المعهد الخاص الرسالة جبنيانة",
+  "email": "brahimbelhadjsalah@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "25669814",
+   "94012835"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ابراهيم الحاج صالح",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 58,
+  "name": "المعهد الخاص الارتقاء بالحنشة",
+  "email": "lyceepriveirtika@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "50489021"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الستار السلامي",
+    "phones": []
+   },
+   {
+    "role": "CENSEUR",
+    "fullName": "خليفة جابر",
+    "phones": []
+   },
+   {
+    "role": "SURVEILLANT_1",
+    "fullName": "سيف الدين بن بلقاسم",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 59,
+  "name": "المدرسة الإعدادية الخاصة الأفق المضيء",
+  "email": "luminous.horizon.school@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "22722766",
+   "95650766"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "خالد زليلة",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 60,
+  "name": "المعهد الخاص منصور الخبور",
+  "email": "mahjoubigharbi@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "55896571",
+   "27896010"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد المكي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 61,
+  "name": "المدرسة الدولية الخاصة بصفاقس -نظام فرنسي- EIS",
+  "email": "contact@eisfax.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97468700",
+   "24268700"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ماهر الفخفاخ",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 62,
+  "name": "المعهد الخاص \"المجمع التربوي أس-سي-بليس\"",
+  "email": "schoolingplus828@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "58345445"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "اعتدال الجراية",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "SECONDARY",
+  "kind": "PRIVATE",
+  "delegation": null,
+  "number": 63,
+  "name": "المعهد الخاص نور الحكمة",
+  "email": "mahjoubigharbi@gmail.com",
+  "address": null,
+  "note": null,
+  "phones": [
+   "97057593",
+   "74885058"
+  ],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الغربي المحجوبي",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 1,
+  "name": "الزيتونة الطاهر كريشان",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمارة العنابي",
+    "phones": [
+     "54585313"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 2,
+  "name": "مركز بن حليمة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عاطف الصويعي",
+    "phones": [
+     "53813746",
+     "29151114"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 3,
+  "name": "مركز علولو",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بوقديمة أولاد عبدالله",
+    "phones": [
+     "29985582"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 4,
+  "name": "مركز القصاص",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "إلهام بوزيان",
+    "phones": [
+     "20250984"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 5,
+  "name": "مركز معلى",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الأمين ذويب",
+    "phones": [
+     "29184087"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 6,
+  "name": "مركز الخراط",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ناجح اليوسفي",
+    "phones": [
+     "97284723"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 7,
+  "name": "مركز والي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نعمان المدلل",
+    "phones": [
+     "23920929",
+     "97361523"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 8,
+  "name": "مركز السلامي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد السلام الزايدي",
+    "phones": [
+     "96070255",
+     "29255538"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 9,
+  "name": "مركز مكون",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الدغباجي عبيدي",
+    "phones": [
+     "99730744"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 10,
+  "name": "الرشاد الجديدة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "خير الدين العوادني",
+    "phones": [
+     "54626222"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "إيمان بن العصري (مكلفة بعمل إداري)",
+    "phones": [
+     "22233573"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 11,
+  "name": "الحرية سوق السيارات",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نجاة الهرابي",
+    "phones": [
+     "25707006"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 12,
+  "name": "بوزيان",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عادل العايدي",
+    "phones": [
+     "44408738"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 13,
+  "name": "طريق العين كم 7",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صابر زغدان",
+    "phones": [
+     "24765666"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 14,
+  "name": "عين الشرفي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صابر دمق",
+    "phones": [
+     "23068340"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 15,
+  "name": "عيون المايل",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الشتيوي",
+    "phones": [
+     "20235234"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "سعيدة سلامة",
+    "phones": [
+     "54570577",
+     "23047801"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 16,
+  "name": "مركز بوخذير",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "خالد الطرابلسي",
+    "phones": [
+     "29771174"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 17,
+  "name": "سيدي عبد الكافي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "النوري المسعودي",
+    "phones": [
+     "27875488"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 18,
+  "name": "العرفات",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "هشام بكار",
+    "phones": [
+     "29585842",
+     "98956390"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 19,
+  "name": "مركز الشيخ ابراهيم",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسن بن رياح",
+    "phones": [
+     "92843893",
+     "22823287"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "حاتم البرادعي",
+    "phones": [
+     "28806552",
+     "93308062"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 20,
+  "name": "سيدي خليفة الطياري",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الغفور الطياري",
+    "phones": [
+     "28872910",
+     "98974487"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 21,
+  "name": "عين تركية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد أنور معلى",
+    "phones": [
+     "20499159"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 22,
+  "name": "برشانة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نور الدين بوشليقة",
+    "phones": [
+     "29152460"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 23,
+  "name": "بومرة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ناجح دمق",
+    "phones": [
+     "58173939"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 24,
+  "name": "النور كم 17",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سميحة المصمودي",
+    "phones": [
+     "98662631",
+     "23113262"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 25,
+  "name": "قرمدة الجديدة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الناصر الحسيني",
+    "phones": [
+     "29308349"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 26,
+  "name": "الهذيلية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وناس الورشفاني",
+    "phones": [
+     "23369925"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 27,
+  "name": "حي العوابد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد العزيز عطية",
+    "phones": [
+     "21330171"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 28,
+  "name": "م.إ. بالعوابد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فاطمة المعلول",
+    "phones": [
+     "96954361",
+     "28556378"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 1,
+  "name": "الكبال",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد خريفش",
+    "phones": [
+     "97755206"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "ليليا الوكيل",
+    "phones": [
+     "54238059"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 2,
+  "name": "مركز بشة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "هاجر الغربي",
+    "phones": [
+     "94423093",
+     "29386982"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "محمد المصمودي",
+    "phones": [
+     "22817964"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 3,
+  "name": "ساقية الداير",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عادل سلام",
+    "phones": [
+     "92030305"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 4,
+  "name": "الأمانة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الحاج طيب",
+    "phones": [
+     "98320976",
+     "25250155"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 5,
+  "name": "عين بن سلمة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "موسى بوجناح",
+    "phones": [
+     "97964048"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 6,
+  "name": "الحي البلدي",
+  "email": null,
+  "address": null,
+  "note": "تكليف بتسيير (26/09)",
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سهيلة بنعزوز بن البحري",
+    "phones": [
+     "29486116"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 7,
+  "name": "مركز الحطاب",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "هشام القرقوري",
+    "phones": [
+     "23305191",
+     "97474324"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "بسمة التريكي",
+    "phones": [
+     "27636106"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 8,
+  "name": "شارع الرشاد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضوان البهلول",
+    "phones": [
+     "22180738",
+     "99597856"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 9,
+  "name": "مركز السبعي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بن عباس",
+    "phones": [
+     "29109553"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 10,
+  "name": "حي بورقيبة 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "لطفي بن محمد الصالح بن ضو",
+    "phones": [
+     "90358924",
+     "97243232"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 11,
+  "name": "حي بورقيبة 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد اللطيف بنحمد (الحجاج سابقا)",
+    "phones": [
+     "28759736"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 12,
+  "name": "الخليج",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رفيق السويسي",
+    "phones": [
+     "93814032"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 13,
+  "name": "السلطنية كم 7",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الهادي بن فالح",
+    "phones": [
+     "28561581"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 14,
+  "name": "طريق حبانة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنصف قيدارة",
+    "phones": [
+     "20134730"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 15,
+  "name": "حي الأمل",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد ذويب",
+    "phones": [
+     "20571445"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 16,
+  "name": "شارع سيدي بوعلي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منى العكروت",
+    "phones": [
+     "25075755",
+     "29054447"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 17,
+  "name": "حي ملاك",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أيمن المصمودي",
+    "phones": [
+     "29009212"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 18,
+  "name": "سيدي منصور كم 12",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منذر العلوي",
+    "phones": [
+     "40394407"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 19,
+  "name": "الحي الجديد",
+  "email": null,
+  "address": null,
+  "note": "تكليف بتسيير (26/09)",
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمادي العقيلي",
+    "phones": [
+     "29587179"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 20,
+  "name": "طريق السلطنية كم 4",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سالم حميدات",
+    "phones": [
+     "28703555",
+     "98375562"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 21,
+  "name": "الصداقة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وهيب الغابري",
+    "phones": [
+     "24020919"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 22,
+  "name": "البدارنة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عز الدين المذيوب",
+    "phones": [
+     "98972057"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 23,
+  "name": "السعادي ط السلطنية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فتحي الصويدي",
+    "phones": [
+     "98831562",
+     "29870790"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 24,
+  "name": "المنصورة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سهيلة الصفاقسي",
+    "phones": [
+     "51682895"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 25,
+  "name": "حي بورقيبة 3",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مجدي الغريبي",
+    "phones": [
+     "98251391",
+     "29722366"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 26,
+  "name": "القرقوري",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نبيل بن مفتاح",
+    "phones": [
+     "27606612"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 1,
+  "name": "الفوز",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عماد البرشاني",
+    "phones": [
+     "97362048"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 2,
+  "name": "مركز الشيشمة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سميرة السويسي المكور",
+    "phones": [
+     "29057588",
+     "54057673"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 3,
+  "name": "الثريا",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسان الكشو",
+    "phones": [
+     "28515740",
+     "98515740"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 4,
+  "name": "شارع بورقيبة",
+  "email": null,
+  "address": null,
+  "note": "تكليف: محمد الفقي (25235357)",
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نرجس الرقيق المساكني",
+    "phones": [
+     "92801091",
+     "99359804"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 5,
+  "name": "شارع الزهادي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسام خياط",
+    "phones": [
+     "24854633"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "فاطمة الزبيدي نجيم",
+    "phones": [
+     "29843865"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 6,
+  "name": "شارع الهادي شاكر",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وحيد عبد الناظر",
+    "phones": [
+     "96765133",
+     "25051261"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "ناجح واردة",
+    "phones": [
+     "29040906",
+     "98681882"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 7,
+  "name": "الوادي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد علي عمار",
+    "phones": [
+     "28534083"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "محمد المصمودي",
+    "phones": [
+     "95286506",
+     "99852785"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 8,
+  "name": "البشرى",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فاطمة العيادي غرسلاوي",
+    "phones": [
+     "29279622"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 9,
+  "name": "مركز السدرة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الفراتي",
+    "phones": [
+     "25203870",
+     "97635407"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "عبد الرؤوف العيادي",
+    "phones": [
+     "29452325"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 10,
+  "name": "شارع الحرية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد علي الطريقي",
+    "phones": [
+     "58137964"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 11,
+  "name": "خالد بن الوليد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فوزي الفخفاخ",
+    "phones": [
+     "99020661"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "هيام شعبان الشاوي",
+    "phones": [
+     "27216111"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 12,
+  "name": "البساتين",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عادل القاسمي",
+    "phones": [
+     "97605689"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 13,
+  "name": "الإصلاح",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "معز الجرابة",
+    "phones": [
+     "98973541"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 14,
+  "name": "البدر",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ماهر اليوسفي",
+    "phones": [
+     "52799811",
+     "95799801"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 15,
+  "name": "الشيحية الشمالية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بن شهيدة",
+    "phones": [
+     "96070678",
+     "29772158"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 16,
+  "name": "المنارة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "راضية سويسي غرس الله",
+    "phones": [
+     "50453453"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 17,
+  "name": "الإمام سحنون",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمود علولو",
+    "phones": [
+     "97966077"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "ألفة ذويب القلال",
+    "phones": [
+     "97307244"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 18,
+  "name": "المثابرة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بلبابه يوسف",
+    "phones": [
+     "98589776"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 19,
+  "name": "طريق تونس كم 10",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد العيادي",
+    "phones": [
+     "21247359"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 20,
+  "name": "سيدي صالح",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": []
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 21,
+  "name": "بئر عباس",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمار الجربوعي",
+    "phones": [
+     "96073970",
+     "25445247"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "سهير العيادي النيفر (تكليف)",
+    "phones": [
+     "44436667"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 22,
+  "name": "ابن رشيق",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد العزيز الرباعي",
+    "phones": [
+     "29718754",
+     "98656495"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 23,
+  "name": "الأنس 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الهادي البراهي",
+    "phones": [
+     "97567904",
+     "29567903"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "فاتن المرابط",
+    "phones": [
+     "29551730"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 24,
+  "name": "الأنس 3",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سالم العوادني",
+    "phones": [
+     "96645562"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 1,
+  "name": "02 مارس 34",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الوهاب بن محمد",
+    "phones": [
+     "22869997"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "شافية الكيلاني",
+    "phones": [
+     "29699597"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 2,
+  "name": "المنصورة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منية بن المبروك",
+    "phones": [
+     "51729825",
+     "25054928"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "كمال فرج",
+    "phones": [
+     "24918765"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 3,
+  "name": "أولاد حمد 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الحسين الطاهي",
+    "phones": [
+     "27846065"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 4,
+  "name": "أولاد طاهر",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الطاهر بنحمد",
+    "phones": [
+     "22285569"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 5,
+  "name": "الغرابة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضا بلشيحة",
+    "phones": [
+     "22705789"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 6,
+  "name": "الغطاطسة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمار العوادني",
+    "phones": [
+     "20386011"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 7,
+  "name": "الغيب",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مراد الجمل",
+    "phones": [
+     "54397196"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 8,
+  "name": "مركز مصباح",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رفيق الجمل",
+    "phones": [
+     "52412140"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 9,
+  "name": "سيدي حسن بلحاج",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمد سليمان",
+    "phones": [
+     "99978377",
+     "95589546"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 10,
+  "name": "بئر الشعبة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الحبيب اللافي",
+    "phones": [
+     "29566946"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 11,
+  "name": "بئر صالح",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نور الدين اسماعيل",
+    "phones": [
+     "21957144"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 12,
+  "name": "الخلالفة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بوبكر شراد",
+    "phones": [
+     "24122305",
+     "97267862",
+     "53267864",
+     "29860650"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 13,
+  "name": "هنشير الجيب",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد قصد الله",
+    "phones": [
+     "94650080"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 14,
+  "name": "أولاد عمر 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بلغيث",
+    "phones": [
+     "99888617"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 15,
+  "name": "سيدي محمد بن عمر",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "طارق الغريبي",
+    "phones": [
+     "28175528",
+     "98974437"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 16,
+  "name": "البطاطمة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسن الحاج ابراهيم",
+    "phones": [
+     "29205435",
+     "98571158"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 17,
+  "name": "الخشارمة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضا القروي",
+    "phones": [
+     "92614240",
+     "50614340"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 18,
+  "name": "وادي الرقة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صلاح الدين سلامة",
+    "phones": [
+     "29881054"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 19,
+  "name": "النيب",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسن الشاوش",
+    "phones": [
+     "94258040",
+     "27764690"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 20,
+  "name": "دخان المحطة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مراد مسعود",
+    "phones": [
+     "97268968"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 21,
+  "name": "سيدي غريب",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "جمال المحجوبي",
+    "phones": [
+     "98973653"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 22,
+  "name": "الجلابلة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سالم بن صالح",
+    "phones": [
+     "23557971"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 23,
+  "name": "أولاد حمد 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ناجح الطاهري",
+    "phones": [
+     "97323185"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 24,
+  "name": "الحجارة 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صابر بطاش",
+    "phones": [
+     "99378946"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 25,
+  "name": "دخان الشرقية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمادي الجوادي",
+    "phones": [
+     "28209123",
+     "97209317"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 26,
+  "name": "البياضين",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الجمل",
+    "phones": [
+     "95415552",
+     "98509214"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 27,
+  "name": "الجمال",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صالح اليعقوبي",
+    "phones": [
+     "24652570"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 28,
+  "name": "أولاد عمر 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فتحي جليل",
+    "phones": [
+     "53538333"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 29,
+  "name": "الخلالفة الجنوبية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد العروسي",
+    "phones": [
+     "97228949",
+     "29848881"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 30,
+  "name": "الحجارة 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رمضان الأسود",
+    "phones": [
+     "29151057"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 31,
+  "name": "الطاهرة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بنصر",
+    "phones": [
+     "97246637"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 1,
+  "name": "02 مارس 34",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنجي الطياري",
+    "phones": [
+     "28300807",
+     "97555862"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 2,
+  "name": "بوثدي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بسمة الدهماني",
+    "phones": [
+     "21977261",
+     "92182016"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 3,
+  "name": "ماجل الدرج",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "زبيدة الزايدي",
+    "phones": [
+     "94291090"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 4,
+  "name": "العوادنة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد اللطيف العشي",
+    "phones": [
+     "23426690"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 5,
+  "name": "محسن الجربوعي (الرياض بوجربوع سابقا)",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عادل الجربوعي",
+    "phones": [
+     "28781470"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 6,
+  "name": "فسقية التين",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بوشناتة",
+    "phones": [
+     "98662609"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 7,
+  "name": "بشكة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منيرة الورغي",
+    "phones": [
+     "29266172"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 8,
+  "name": "بئر الملولي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد البية",
+    "phones": [
+     "96501181"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 9,
+  "name": "الحاج قاسم 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "علي الجربوعي",
+    "phones": [
+     "21279860"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 10,
+  "name": "المراعية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الرزاق النيفر",
+    "phones": [
+     "29660476"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 11,
+  "name": "أولاد سعادة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الله المانع",
+    "phones": [
+     "97958617"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 12,
+  "name": "أولاد يوسف الشمالية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "وليد بنبلقاسم",
+    "phones": [
+     "29887062"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "زهرة الكشو",
+    "phones": [
+     "29266082"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 13,
+  "name": "تليل الجملة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فتحي العايدي",
+    "phones": [
+     "52201717",
+     "52261117"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 14,
+  "name": "زعيبط",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المختار اليوسفي",
+    "phones": [
+     "53788850",
+     "97230406"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 15,
+  "name": "ليماية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمادي عبد الهادي",
+    "phones": [
+     "25106812",
+     "29182550"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 16,
+  "name": "الشوشة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أنيس الغطاسي",
+    "phones": [
+     "29043071",
+     "26709936"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 17,
+  "name": "العقاير",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد البريني",
+    "phones": [
+     "29633806"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 18,
+  "name": "الأعشاش",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنذر بلغيث",
+    "phones": [
+     "29672845"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 19,
+  "name": "مركز البرمكي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنصف مرزوق",
+    "phones": [
+     "29564654"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 20,
+  "name": "القوادرية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "البشير حديدي",
+    "phones": [
+     "29323956"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 21,
+  "name": "البرمكي 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الرؤوف محجوب",
+    "phones": [
+     "29364673",
+     "29576464"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 22,
+  "name": "بئر بن عياد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "علي الزياني",
+    "phones": [
+     "25396068",
+     "97396068"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 23,
+  "name": "الحاج قاسم 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "النوري بنحمد",
+    "phones": [
+     "98214900",
+     "21830844"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 24,
+  "name": "وادي الظل",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بن حمودة",
+    "phones": [
+     "27676910"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 25,
+  "name": "الرحامنة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمر بنعثمان",
+    "phones": [
+     "21182339"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 26,
+  "name": "الطيايرة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الجربوعي الزايدي",
+    "phones": [
+     "97219249"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 27,
+  "name": "بوجربوع الشمالية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منير بن محجوب",
+    "phones": [
+     "29772629"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 28,
+  "name": "المهاذبة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "السامي بنحسن",
+    "phones": [
+     "92933245",
+     "27933245"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 29,
+  "name": "الحاج قاسم 3",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عز الدين الحويلدي",
+    "phones": [
+     "44526395",
+     "98530153"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 30,
+  "name": "سوق الأعشاش",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أحمد العشي",
+    "phones": [
+     "29207132"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 31,
+  "name": "البورة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد عباس",
+    "phones": [
+     "97740696",
+     "95326234"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 1,
+  "name": "شارع بورقيبة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "خالد الشايب",
+    "phones": [
+     "29155899"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 2,
+  "name": "02 مارس 34",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عبد الرزاق الحامدي",
+    "phones": [
+     "23416410"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "رمضان فؤاد",
+    "phones": [
+     "22268243"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 3,
+  "name": "حي الحدائق",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "يوسف بوعافية",
+    "phones": [
+     "98400040"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 4,
+  "name": "الخزق 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "كمال بن مبارك",
+    "phones": [
+     "29554465",
+     "98589905"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 5,
+  "name": "العجانقة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد برق",
+    "phones": [
+     "28172447",
+     "52172639"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 6,
+  "name": "مركز العجمي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مخلوف إسماعيل",
+    "phones": [
+     "99367281",
+     "44762744"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 7,
+  "name": "اللوزة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "البحري العبدلي",
+    "phones": [
+     "92138003"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 8,
+  "name": "أولاد بوسمير",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "مصطفى بن الحاج",
+    "phones": [
+     "98229703"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 9,
+  "name": "أولاد يوسف",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حاتم بن الباهي",
+    "phones": [
+     "97960269"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 10,
+  "name": "المجاذبة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضا فرج",
+    "phones": [
+     "99552684",
+     "29552659"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 11,
+  "name": "دوار اللواتة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنجي المنصري",
+    "phones": [
+     "20843737",
+     "29390903"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 12,
+  "name": "القلالجة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "هشام شهيدة",
+    "phones": [
+     "29604327"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 13,
+  "name": "أولاد أحمد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "صابر بن ابراهيم",
+    "phones": [
+     "29492181"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 14,
+  "name": "الجبارنة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمارة حمودة",
+    "phones": [
+     "99507059"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 15,
+  "name": "بطرية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سلوى شرقية",
+    "phones": [
+     "97895015"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 16,
+  "name": "أولاد منصر",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسن بابای",
+    "phones": [
+     "97054290",
+     "29054118"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 17,
+  "name": "المناصرية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "المنصف الهويدي",
+    "phones": [
+     "93581157"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 18,
+  "name": "أولاد حميدة",
+  "email": null,
+  "address": null,
+  "note": "تكليف بتسيير (26/09)",
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "فوزي مبارك",
+    "phones": [
+     "95836013"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 19,
+  "name": "المقاقشة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أنيس أكرومة",
+    "phones": [
+     "29701231",
+     "98380678"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 20,
+  "name": "البرايلية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "التوفيق الحامدي",
+    "phones": [
+     "96263820",
+     "97204614"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 21,
+  "name": "الخزق 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "منير بن عرفة",
+    "phones": [
+     "22272526"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 22,
+  "name": "سيدي عبد العزيز",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الصادق سلطان",
+    "phones": [
+     "95202521"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 23,
+  "name": "أولاد مجاهد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "قايبل السحبي",
+    "phones": [
+     "97986608"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 24,
+  "name": "الفراسة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "معز الدلاجي",
+    "phones": [
+     "23220119",
+     "29611134"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 25,
+  "name": "المساترية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أم السعد الغرشيشي",
+    "phones": [
+     "29335590",
+     "98613302"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 26,
+  "name": "الحمازة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "التيجاني عامر",
+    "phones": [
+     "93971002"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 1,
+  "name": "بليانة 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حمادي الشريف",
+    "phones": [
+     "24086140",
+     "97855367"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 2,
+  "name": "بليانة الشرقية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نور الدين الحسني",
+    "phones": [
+     "98487575"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 3,
+  "name": "العامرة 1",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "لطفي بنسعيد",
+    "phones": [
+     "97855005"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 4,
+  "name": "العامرة 2",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "دليلة بوعزي",
+    "phones": [
+     "29571043",
+     "92541046"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 5,
+  "name": "الكتانة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد الجليدي",
+    "phones": [
+     "26065011"
+    ]
+   },
+   {
+    "role": "ASSISTANT",
+    "fullName": "سلوى الكتاني",
+    "phones": [
+     "99306613",
+     "29306737",
+     "24810128"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 6,
+  "name": "السعادي طريق المهدية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسان الفلام",
+    "phones": [
+     "95701872",
+     "28588508",
+     "29197172"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 7,
+  "name": "العوابد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "الحبيب صالح",
+    "phones": [
+     "25305038"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 8,
+  "name": "أولاد مسلم",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "معز سعد",
+    "phones": [
+     "97966378",
+     "21250545"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 9,
+  "name": "المهارة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمار الساحي",
+    "phones": [
+     "98971046"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 10,
+  "name": "عين غزال",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد أمين شوشان",
+    "phones": [
+     "29012554"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 11,
+  "name": "الفي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سمير السعيدي",
+    "phones": [
+     "22547200"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 12,
+  "name": "الفيض",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد شبيل",
+    "phones": [
+     "99855846"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 13,
+  "name": "الجواودة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "أنور المهيري",
+    "phones": [
+     "28159301"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 14,
+  "name": "الغلالبة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "بوبكر الطهاري",
+    "phones": [
+     "29878275"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 15,
+  "name": "العقاربة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "لطفي بلحاج أحمد",
+    "phones": [
+     "97323574"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 16,
+  "name": "ذراع بن زياد",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضا بن الفلام",
+    "phones": [
+     "98965573",
+     "22404829"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 17,
+  "name": "أولاد الغالي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عمار سالم",
+    "phones": [
+     "99180454"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 1,
+  "name": "02 مارس 34 مليتة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "نجاة بن سليمان",
+    "phones": [
+     "29595650",
+     "23800482"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 2,
+  "name": "رابح الحيلي (النجاة سابقا)",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "محمد بوزيدة",
+    "phones": [
+     "99737131"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 3,
+  "name": "القراطن",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "رضا الهداجي",
+    "phones": [
+     "29320464"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 4,
+  "name": "العطايا",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سميرة فرحات",
+    "phones": [
+     "29396319"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 5,
+  "name": "الرملة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "سنية فرحات",
+    "phones": [
+     "96705026"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 6,
+  "name": "أولاد بوعلي",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "حسن الميغري",
+    "phones": [
+     "29190878",
+     "96202203",
+     "5461188"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 7,
+  "name": "أولاد يانق",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "ألفة خليف",
+    "phones": [
+     "94270117",
+     "25780650",
+     "21270432"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 8,
+  "name": "أولاد قاسم",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "معز مقديش",
+    "phones": [
+     "29772598"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIMARY",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 9,
+  "name": "أولاد عز الدين",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [],
+  "contacts": [
+   {
+    "role": "DIRECTOR",
+    "fullName": "عادل جابر",
+    "phones": [
+     "25326653"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 1,
+  "name": "التألق",
+  "email": null,
+  "address": "نهج الرياض طريق منزل شاكر كلم 6,5",
+  "note": null,
+  "phones": [
+   "53452346"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 2,
+  "name": "سكولينغ",
+  "email": null,
+  "address": "عدد 54 شارع المنجي سليم ساقية الزيت",
+  "note": null,
+  "phones": [
+   "22626084"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 3,
+  "name": "النخبة",
+  "email": null,
+  "address": "طريق الأفران كلم 3.5 قصاص محسونة صفاقس",
+  "note": null,
+  "phones": [
+   "54206761"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 4,
+  "name": "التوليب",
+  "email": null,
+  "address": "طريق قرمدة كلم 6.5 صفاقس الجنوبية",
+  "note": null,
+  "phones": [
+   "52968555"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 5,
+  "name": "الدولية",
+  "email": null,
+  "address": "نهج النرجس طريق قرمدة كلم 5,4 صفاقس",
+  "note": null,
+  "phones": [
+   "56278888"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 6,
+  "name": "نوفا سكول",
+  "email": null,
+  "address": "نهج غرة ماي طريق قرمدة كلم 5.5 صفاقس",
+  "note": null,
+  "phones": [
+   "97758966",
+   "23833011"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 7,
+  "name": "المتفوق",
+  "email": null,
+  "address": "عدد 70 شارع الرشاد طريق المهدية كلم 6 ساقية الداير صفاقس",
+  "note": null,
+  "phones": [
+   "99595453",
+   "21198339"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 8,
+  "name": "الفردوس",
+  "email": null,
+  "address": "شارع الإمام سحنون الشيحية",
+  "note": null,
+  "phones": [
+   "55839268"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 9,
+  "name": "قولدن",
+  "email": null,
+  "address": "طريق سيدي منصور كلم 4 حي بورقيبة صفاقس",
+  "note": null,
+  "phones": [
+   "92716666"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 10,
+  "name": "الماس سكول",
+  "email": null,
+  "address": "طريق قرمدة كم 7 شارع الشهداء صفاقس",
+  "note": null,
+  "phones": [
+   "24167034"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 11,
+  "name": "لورن تو فلاي",
+  "email": null,
+  "address": "طريق سيدي منصور كم 4,5 زنقة العش صفاقس",
+  "note": null,
+  "phones": [
+   "97154007"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 12,
+  "name": "كوبول بليس",
+  "email": null,
+  "address": "طريق تنيور كم 4,5 بجانب مغازة المصمودي",
+  "note": null,
+  "phones": [
+   "99005185"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 13,
+  "name": "المنارة",
+  "email": null,
+  "address": "الحنشة طريق جبنيانة",
+  "note": null,
+  "phones": [
+   "22598676"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRIVATE_PRIMARY",
+  "kind": null,
+  "delegation": null,
+  "number": 14,
+  "name": "السفير",
+  "email": null,
+  "address": "طريق بوزيان كلم 8",
+  "note": null,
+  "phones": [
+   "22371144",
+   "98944079"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRESCHOOL",
+  "kind": null,
+  "delegation": null,
+  "number": 1,
+  "name": "عائشة",
+  "email": null,
+  "address": "نهج الرياض طريق منزل شاكر كلم 6,5",
+  "note": null,
+  "phones": [
+   "93239220"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "PRESCHOOL",
+  "kind": null,
+  "delegation": null,
+  "number": 2,
+  "name": "نور المعرفة",
+  "email": null,
+  "address": "عدد 54 شارع المنجي سليم ساقية الزيت",
+  "note": null,
+  "phones": [
+   "98972475"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 1,
+  "name": "قرمدة عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 2,
+  "name": "صفاقس الجنوبية 1 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "صفاقس الجنوبية",
+  "number": 3,
+  "name": "صفاقس 4 فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74403037"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 4,
+  "name": "صفاقس 5 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 5,
+  "name": "صفاقس 7 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 6,
+  "name": "السلطنية عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": [
+   {
+    "role": "CLERK",
+    "fullName": "نبيل الفندري",
+    "phones": [
+     "24449981"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 7,
+  "name": "ساقية الداير فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74893078"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الداير",
+  "number": 8,
+  "name": "سيدي منصور فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74402026"
+  ],
+  "contacts": [
+   {
+    "role": "CLERK",
+    "fullName": "حنان عبيدة",
+    "phones": [
+     "29058068"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 9,
+  "name": "صفاقس 2 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74250023"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 10,
+  "name": "صفاقس 9 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74403037"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 11,
+  "name": "ساقية الزيت 2 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74250023"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 12,
+  "name": "الشيحية عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74848570"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "ساقية الزيت",
+  "number": 13,
+  "name": "صفاقس 1 فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74231081"
+  ],
+  "contacts": [
+   {
+    "role": "CLERK",
+    "fullName": "جمان سلامة سعد",
+    "phones": [
+     "96835836"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 14,
+  "name": "الحنشة 1 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74284043"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 15,
+  "name": "الحنشة 2 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74284043"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 16,
+  "name": "الحنشة 1 فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74284043"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "الحنشة",
+  "number": 17,
+  "name": "الحنشة 2 فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74284043"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 18,
+  "name": "منزل شاكر 1 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74285272"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 19,
+  "name": "منزل شاكر 2 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74285272"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "منزل شاكر",
+  "number": 20,
+  "name": "منزل شاكر فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74285272"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 21,
+  "name": "جبنيانة 1 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74880097"
+  ],
+  "contacts": [
+   {
+    "role": "CLERK",
+    "fullName": "الطيب اسماعيل",
+    "phones": [
+     "94806950",
+     "94439880"
+    ]
+   }
+  ]
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 22,
+  "name": "جبنيانة 2 عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74880097"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "جبنيانة",
+  "number": 23,
+  "name": "جبنيانة فرنسية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74880097"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "العامرة",
+  "number": 24,
+  "name": "العامرة عربية",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74899117"
+  ],
+  "contacts": []
+ },
+ {
+  "category": "INSPECTION",
+  "kind": null,
+  "delegation": "قرقنة",
+  "number": 25,
+  "name": "قرقنة",
+  "email": null,
+  "address": null,
+  "note": null,
+  "phones": [
+   "74482440"
+  ],
+  "contacts": []
+ }
+]
